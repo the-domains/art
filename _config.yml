@@ -1,7 +1,7 @@
-name: null
+name: art
 favicon: null
-layout_spectrum: 0.8
-typography_spectrum: 0.5
+layout_spectrum: 0.709479687968269
+typography_spectrum: 0.6794633253011853
 cta:
   domain: null
   bucket: null
@@ -19,6 +19,7 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
+  rhythmicContrast: 0.5390068758279085
 purpose:
   - name: shares
     item: null
